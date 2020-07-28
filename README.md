@@ -1,4 +1,6 @@
-![Home-Hero](https://i.ibb.co/zhrh1kR/Front-side.png)
+<p align="center">
+  <img width="600"  src="https://i.ibb.co/zhrh1kR/Front-side.png">
+</p>
 
 # Hey There 😍
 
