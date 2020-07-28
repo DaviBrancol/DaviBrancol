@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="600"  src="https://i.ibb.co/zhrh1kR/Front-side.png">
-</p>
+![Home-Hero](https://i.ibb.co/zhrh1kR/Front-side.png)
 
 # Hey There 😍
 
@@ -24,4 +22,8 @@ When I was younger, one character sad that "even the smallest stone can start an
 - Professional Instagram: https://instagram.com/brancoldesign
 - Personal Instagram: https://instagram.com/davibrancol17
 
-## Close developer Friends
+## Close Developer Friends
+
+[@LuisTessaro](https://github.com/LuisTessaro) | [@Devnvll](https://github.com/devnvll) | [@GabrielRaposoD](https://github.com/GabrielRaposoD) | [@Prz901](https://github.com/Prz901)
+--- | --- | --- | ---
+![@aprilspeight](https://avatars.githubusercontent.com/LuisTessaro?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/devnvll?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/GabrielRaposoD?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/Prz901?s=150&v=1)
